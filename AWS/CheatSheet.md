@@ -1,4 +1,4 @@
-:memo: Whoami?
+:memo: *Whoami?*
 ```bash
 aws sts get-caller-identity
 ```
